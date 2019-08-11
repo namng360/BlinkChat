@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "502116691861",
+    "firebase_url": "https://blinkchat-9158d.firebaseio.com",
+    "project_id": "blinkchat-9158d",
+    "storage_bucket": "blinkchat-9158d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:502116691861:android:a12b404547678b04",
+        "android_client_info": {
+          "package_name": "vn.mac.gnam.blinkchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "502116691861-8k4on2ppcm7qr44523iuf6293kg8lcu4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "vn.mac.gnam.blinkchat",
+            "certificate_hash": "33078eebc5d33ab643b7925deb88fd2cb0070bea"
+          }
+        },
+        {
+          "client_id": "502116691861-pujtnqj05ihq4ltu87j26pu449jmj1jk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDH1Pv5RygKsixtsxSmJicYG6i_8zrUdeQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "502116691861-pujtnqj05ihq4ltu87j26pu449jmj1jk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
